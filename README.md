@@ -11,7 +11,6 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
 
-![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenchaoh997&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wenchaoh997&" alt="wenchaoh997"/></p>
 
 <!--
