@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--<img src="static/IMG7.jpg" alt="picture" style="width" /> -->
-
 - 🎈 I’m currently learning **Web Fullstack, Deep Learning and DevOps things**. 
 - And already in love with my girlfriend for **<!-- DAYS_UNTIL --><!-- /DAYS_UNTIL --> days**.
 
