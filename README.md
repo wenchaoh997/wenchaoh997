@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎈 I’m currently learning **Web Fullstack, Deep Learning and DevOps things**. 
-- And already in love with my girlfriend for **<!-- DAYS_UNTIL --><!-- /DAYS_UNTIL --> days**.
+- And already in love with my girlfriend for **<!-- DAYS_UNTIL -->29<!-- /DAYS_UNTIL --> days**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
