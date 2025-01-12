@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🎈 I’m currently learning **Web Fullstack, Deep Learning and DevOps things**. 
-- And already in love with my girlfriend for **<!-- DAYS_UNTIL -->29<!-- /DAYS_UNTIL --> days**.
+- 🔭 I’m currently working on **Spring-boot, Fastapi, Vuejs** for enterprise digitization management.
+- 🤔 I sometimes read development knowledge on different infrastructure softwares. Hopefully, I can gain some insights and make sharing.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
